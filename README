@@ -1,2 +1,3 @@
 An implementation of Pong that can be played against the Computer or against a friend using the same
-keyboard.
+keyboard. When a player scores a point the game just continues without any reset of the ball to not 
+disturb the flow of the game.
